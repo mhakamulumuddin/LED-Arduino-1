@@ -4,4 +4,4 @@ Di dalam projek ini kita bisa mensimulasikan projek Arduino dengan komponen LED 
 
 Lampu LED Dapat menyala secara bergantian.
 
-urutan menyalanya seperti Lampu Lalu lintas.
+urutan menyalanya seperti Lampu Lalu lintas..
